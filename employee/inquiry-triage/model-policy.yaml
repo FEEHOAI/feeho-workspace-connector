@@ -1,0 +1,4 @@
+provider: model-agnostic
+temperature: 0.1
+enterprise_data: not-included
+note: Select and authorize a model separately; this package does not execute a model.
