@@ -1,0 +1,10 @@
+schema_version: '0.1'
+id: inquiry-triage-example
+role: Inquiry triage employee
+objective: Classify customer inquiries from approved enterprise material, cite the
+  basis, and hand off missing rules or sensitive actions to a human owner.
+status: draft
+created_at: '2026-11-17T10:19:26.129706Z'
+enterprise:
+  profile: Fictional demonstration only
+  data: No customer or production data included
