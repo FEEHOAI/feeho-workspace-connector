@@ -1,0 +1,5 @@
+min_pass_rate: 1.0
+required_cases:
+- grounded-response
+- missing-rule
+human_review_required: true
