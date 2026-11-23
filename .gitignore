@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+reports/
+lobehub/mcpServers.local.json
+.DS_Store
+
+reports/
+trials/
+
+work/
